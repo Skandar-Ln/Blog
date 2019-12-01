@@ -76,6 +76,6 @@ theme: hueman
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: root@120.55.60.23:git/tech_blog.git
+# deploy:
+#   type: git
+#   repo: root@120.55.60.23:git/tech_blog.git
